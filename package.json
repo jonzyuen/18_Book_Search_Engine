@@ -1,5 +1,6 @@
 {
-  "name": "googlebooks-app",
+  "name": "book-search-engine-jy",
+  "homepage": "https://book-search-engine-jy.herokuapp.com//",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
